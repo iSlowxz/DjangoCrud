@@ -36,8 +36,8 @@ This project is a web-based CRUD application that allows users to perform basic 
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/django-crud-mysql.git
-cd django-crud-mysql
+git clone [https://github.com/yourusername/django-crud-mysql.git
+cd django-crud-mysql](https://github.com/iSlowxz/DjangoCrud.git)
 ```
 
 2. Create a virtual environment (recommended)
